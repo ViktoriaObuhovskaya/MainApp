@@ -1,0 +1,9 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/employeedb
+    username: postgres
+    password: viktoria96
+    pool-size: 30
+
+
+
